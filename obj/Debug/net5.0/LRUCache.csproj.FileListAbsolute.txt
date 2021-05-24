@@ -1,0 +1,16 @@
+X:\src\algorithms\LRUCache\bin\Debug\net5.0\LRUCache.exe
+X:\src\algorithms\LRUCache\bin\Debug\net5.0\LRUCache.deps.json
+X:\src\algorithms\LRUCache\bin\Debug\net5.0\LRUCache.runtimeconfig.json
+X:\src\algorithms\LRUCache\bin\Debug\net5.0\LRUCache.runtimeconfig.dev.json
+X:\src\algorithms\LRUCache\bin\Debug\net5.0\LRUCache.dll
+X:\src\algorithms\LRUCache\bin\Debug\net5.0\ref\LRUCache.dll
+X:\src\algorithms\LRUCache\bin\Debug\net5.0\LRUCache.pdb
+X:\src\algorithms\LRUCache\obj\Debug\net5.0\LRUCache.csprojAssemblyReference.cache
+X:\src\algorithms\LRUCache\obj\Debug\net5.0\LRUCache.GeneratedMSBuildEditorConfig.editorconfig
+X:\src\algorithms\LRUCache\obj\Debug\net5.0\LRUCache.AssemblyInfoInputs.cache
+X:\src\algorithms\LRUCache\obj\Debug\net5.0\LRUCache.AssemblyInfo.cs
+X:\src\algorithms\LRUCache\obj\Debug\net5.0\LRUCache.csproj.CoreCompileInputs.cache
+X:\src\algorithms\LRUCache\obj\Debug\net5.0\LRUCache.dll
+X:\src\algorithms\LRUCache\obj\Debug\net5.0\ref\LRUCache.dll
+X:\src\algorithms\LRUCache\obj\Debug\net5.0\LRUCache.pdb
+X:\src\algorithms\LRUCache\obj\Debug\net5.0\LRUCache.genruntimeconfig.cache
